@@ -1,1 +1,2 @@
 Understanding guthub now
+This is a hands on class
